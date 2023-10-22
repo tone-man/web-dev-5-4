@@ -14,3 +14,5 @@ window.onload = () => {
 window.onbeforeunload = (event) => {
     return 1;
 }
+
+// This Does tho? Interesting...
